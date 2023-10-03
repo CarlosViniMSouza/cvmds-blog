@@ -1,8 +1,7 @@
 ---
-title: "The Passing of the Grey Company"
-excerpt: "Aragorn, Legolas, and Gimli are accompanied by the Grey Company as
-they pass through the Paths of the Dead between Rohan and Gondor."
-date: "2021-01-22"
+title: "My get started in the Fantastic Programming Universe"
+excerpt: "My First Day with Programming using Python"
+date: "2019-04-04"
 ---
 
 Placeat consequuntur ullam aut sapiente illo velit. Eius facere ut molestias

@@ -1,8 +1,7 @@
 ---
-title: "At the Sign of the Prancing Pony"
-excerpt: "The Hobbits reach the The Prancing Pony inn at Bree, where Frodo uses
-a false name, Underhill."
-date: "2021-03-03"
+title: "Difficulties at the beginning of programming"
+excerpt: "My personal vision about the difficulties for beginners"
+date: "2022-12-16"
 ---
 
 Placeat consequuntur ullam aut sapiente illo velit. Eius facere ut molestias
