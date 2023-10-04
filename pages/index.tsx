@@ -6,10 +6,23 @@ function HomePage() {
     <>
       <Container>
         <div className="space-y-4">
-          <h2 className="text-2xl font-bold">
-            Hey, I'm a Junior Software Engineer based in Brazil. I'm studying Next.js
-            for a big college project. I hope to have good experiences and some important learnings.
-          </h2>
+          <div className="flex space-x-4">
+            <Image
+              className="rounded"
+              src="/profile.jpg"
+              alt="my face"
+              width={100}
+              height={100}
+              style={{
+                width: "100%",
+                height: "100%"
+              }}
+            />
+            <h2 className="text-2xl font-bold">
+              Hey, I'm a Junior Software Engineer based in Brazil. I'm studying Next.js
+              for a big college project. I hope to have good experiences and some important learnings.
+            </h2>
+          </div>
           <p>
             About me: I'm a Software Engineer learning MERN Stack for turn me a FullStack Developer.
             I've experiences with A.I. & Machine Learning; Data Analysis & Data Scince; Web & Mobile Development; UI/UX tests.
