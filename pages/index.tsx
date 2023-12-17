@@ -5,34 +5,22 @@ function HomePage() {
   return (
     <>
       <Container>
-        <div className="space-y-4">
-          <div className="flex space-x-4">
-            <Image
-              className="rounded"
-              src="/profile.jpg"
-              alt="my face"
-              width={100}
-              height={100}
-              style={{
-                width: "100%",
-                height: "100%"
-              }}
-            />
+        <div className="items-center rounded">
+          <div className="flex flex-grow">
             <h2 className="text-2xl font-bold">
-              Hey, I'm a Junior Software Engineer based in Brazil. I'm studying Next.js
-              for a big college project. I hope to have good experiences and some important learnings.
+              ✌️ ~ Hey, I'm a Junior Software Engineer.
+              Studying Next.js, TailwindCSS and JS Ecossytem for build Full-Stack apps
             </h2>
           </div>
-          <p>
+          <p className='mt-4'>
             About me: I'm a Software Engineer learning MERN Stack for turn me a FullStack Developer.
-            I've experiences with A.I. & Machine Learning; Data Analysis & Data Scince; Web & Mobile Development; UI/UX tests.
           </p>
-          <p>
+          <p className='mt-4'>
             Moreover, I'm working how to volunteer intership in my college. 
             And I'm working in my research for the "Completion of Course Work" (TCC)
           </p>
 
-          <p>Below, my beloved setup! ❤️💻🖥️🖱️💜</p>
+          <p className='mt-4'>Below, my beloved setup! 💻🖥️🖱️</p>
         </div>
       </Container>
 
